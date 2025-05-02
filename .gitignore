@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Virtual environment
-myenv/
+myvenv/
 
 # Excel Templates (if they shouldn't be version controlled)
 Excel_templates/
